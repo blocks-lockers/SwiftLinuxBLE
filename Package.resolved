@@ -5,17 +5,17 @@
         "package": "Bluetooth",
         "repositoryURL": "https://github.com/PureSwift/Bluetooth.git",
         "state": {
-          "branch": "master",
-          "revision": "f15e8883382742cc3fe8dfbe8520f361771dcda8",
-          "version": null
+          "branch": null,
+          "revision": "ca873f206cc1bcfbe1f9eeac420ec53d00ea38ec",
+          "version": "5.2.0"
         }
       },
       {
         "package": "BluetoothLinux",
-        "repositoryURL": "https://github.com/blocks-lockers/BluetoothLinux",
+        "repositoryURL": "https://github.com/blocks-lockers/BluetoothLinux.git",
         "state": {
-          "branch": "develop",
-          "revision": "49c5896d9fe330647da06ca251400c1674d30ba3",
+          "branch": "fix/4.2.1-dep",
+          "revision": "592386706de903082b669b5ce71c8cb5ddac89db",
           "version": null
         }
       },
@@ -23,8 +23,8 @@
         "package": "GATT",
         "repositoryURL": "https://github.com/blocks-lockers/GATT",
         "state": {
-          "branch": "master",
-          "revision": "51a10bb5e758bf2723bd49251c57fe5e7ea9a2df",
+          "branch": "fix/2.5.0-dep",
+          "revision": "a7cd8d8b401e5ae1cbab2529c8d64011b8443d0c",
           "version": null
         }
       },
@@ -35,15 +35,6 @@
           "branch": null,
           "revision": "dad03135d7701a4e7b3a4051e75d6b37bd8e178e",
           "version": "2.2.4"
-        }
-      },
-      {
-        "package": "swift-system",
-        "repositoryURL": "https://github.com/blocks-lockers/swift-system.git",
-        "state": {
-          "branch": "master",
-          "revision": "bfe7ad0bc014c41bd3eff540b74301ccf975dcd4",
-          "version": null
         }
       }
     ]
