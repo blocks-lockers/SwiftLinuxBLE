@@ -12,8 +12,8 @@ let package = Package(
             targets: ["SwiftLinuxBLE"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/blocks-lockers/GATT", .branch("swift-5.6")),
-        .package(url: "https://github.com/blocks-lockers/BluetoothLinux", .branch("swift-5.6")),
+        .package(url: "https://github.com/blocks-lockers/GATT", .branch("swift-6.0")),
+        .package(url: "https://github.com/blocks-lockers/BluetoothLinux", .branch("swift-6.0")),
         .package(url: "https://github.com/wickwirew/Runtime", .upToNextMajor(from: "2.1.0"))
     ],
     targets: [
